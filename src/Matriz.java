@@ -8,7 +8,7 @@ public class Matriz{
 
         int linha, coluna;
 
-        //TESTANDO O GITHUB
+        
         System.out.println("Quantas linhas terá a matriz? ");
         linha = sc.nextInt();
         System.out.println("Quantas colunas terá a matriz? ");
